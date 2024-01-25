@@ -1,0 +1,3 @@
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

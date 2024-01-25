@@ -1,0 +1,7 @@
+bugradeneme
+ 6
+sondeneme
+ 21
+scoredeneme
+ 333
+ 

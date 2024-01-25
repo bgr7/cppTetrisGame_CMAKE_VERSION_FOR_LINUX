@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/bugrabaygul/Desktop/mactekisonhal/bugraBaygul20190705005-072/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
