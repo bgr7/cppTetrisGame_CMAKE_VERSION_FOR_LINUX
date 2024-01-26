@@ -1,11 +1,11 @@
-# CSE-211 TERM PROJECT BUGRA BAYGUL (cmkake version if other versions not working.)
+# BUGRA BAYGUL TETRIS (cmkake version if other versions not working.)
 
 ## How to Run This Project?
 ````
 MacOS AARCH64 M2 or higher is highly recommended for this project.
 İf you are using Linux or Windows (Linux runs the code perfectly)
    
-    go to directory of bugraBaygul20190705005-072
+    go to directory <gamedir>
     mkdir buildx
     cd buildx
     cmake ..
@@ -16,7 +16,7 @@ MacOS AARCH64 M2 or higher is highly recommended for this project.
 
     after completed;
     cd bin
-    ./bugraBaygul20190705005-072
+    ./<gamedir>
     
     
     maybe you need to write 
